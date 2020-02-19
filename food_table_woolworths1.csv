@@ -1,0 +1,41 @@
+Item_No;Food_Item;Category;Size;Price;Stock_Quantity;Stock_Value;Expiry_Date;Reorder_Time_In_Days;Quantity_In_Reorder
+A001;Simba Beef Flavoured Potato Chips;Snacks;125g;18.49;13;240.37;2020/11/25;31;150
+A002;Lays Salted Potato Chips;Snacks;125g;19.49;11;214.39;2020/11/22;53;125
+A003;Coca-Cola Original Bottle;Beverages;2L;22.49;6;134.94;2020/09/05;10;200
+A004;Fanta Orange Bottle,Beverages;Beverages;2L;22.49;4;89.96;2020/09/13;5;185
+A005;Cadbury Dairy Milk Chocolate Slab;Chocolates;80g;15.99;19;303.81;2020/06/03;14;85
+A006;Nestle Quality Street Chocolates;Chocolates;500g;99.99;6;599.94;2020/04/28;61;50
+A007;Nescafe Gold Roasted Coffee;Coffee;200g;109.99;12;1319.88;2021/02/18;61;100
+A008;Jacobs Kronung Instant Coffee;Coffee;200g;109.99;15;1649.85;2020/10/11;46;100
+A009;All Gold Tomato Sauce;Sauces;700ml;30.99;2;61.98;2020/12/25;7;250
+A010;Crosse & Blackwell Mayonnaise;Sauces;750g;33.99;4;135.96;2020/07/08;3;125
+A011;Nescafe Gold Cappuccino Sachets;Coffee;18g;49.99;25;1249.75;2021/03/08;55;70
+A012;Nestle Hot Chocolate;Coffee;500g;59.99;13;779.87;2020/08/04;42;30
+A013;Nestle Nesquik Chocolate Flavoured Drink ;Beverages;500g;46.99;5;234.95;2020/12/18;68;22
+A014;Mrs H.S.Ball's Original Chutney;Sauces;470g;29.99;21;629.79;2020/10/21;21;43
+A015;Hellmann's Original Mayonnaise;Sauces;394g;29.99;10;299.9;2020/06/15;8;15
+A016;Wellingtons Sweet Chilli Sauce;Sauces;700ml;43.99;18;791.82;2020/05/26;11;19
+A017;Cook 'n Bake Original Non-Stick Cooking Spray;Oils & Vinegars;300ml;42.99;9;386.91;2021/03/14;15;27
+A018;Cerebos Iodated Table Salt;Herbs & Spices;500g;19.99;35;699.65;2020/10/06;7;38
+A019;Koo Baked Beans;Cans, Jars & Packaged Foods;410g;11.99;55;659.45;2021/01/27;12;9
+A020;Koo Whole Kernel Corn in Brine;Cans, Jars & Packaged Foods;410g;17.99;40;719.6;2021/02/11;14;47
+A021;Koo Peach Slices in Syrup;Cans, Jars & Packaged Foods;410g;17.99;38;683.62;2021/03/30;25;21
+A022;Tastic Rice;Pasta, Rice & Grains;2Kg;29.99;75;2249.25;2020/09/02;22;63
+A023;Tastic Basmati Rice;Pasta, Rice & Grains;2Kg;109.99;31;3409.69;2021/04/17;31;5
+A024;Bakers Salticrax ;Biscuits, Rusks & Crackers;200g;23.99;4;95.96;2020/07/19;3;35
+A025;Bakers Provita Wholewheat Crispbread 4s;Biscuits, Rusks & Crackers;125g;42.99;30;1289.7;2020/06/08;9;16
+A026;Bakers Original Romany Creams;Biscuits, Rusks & Crackers;200g;25.99;12;311.88;2020/03/29;11;12
+A027;Oreo Original;Biscuits, Rusks & Crackers;16Pk;19.99;8;159.92;2020/08/16;18;25
+A028;Jungle Oats;Breakfast Cereals & Bars;1Kg;34.99;14;489.86;2020/10/15;23;24
+A029;Bokomo Weet-Bix;Breakfast Cereals & Bars;450g;24.99;28;699.72;2021/01/23;33;42
+A030;Kellogg's Coco Pops;Breakfast Cereals & Bars;350g;39.99;31;1239.69;2020/05/10;15;33
+A031;Kellogg's Corn Flakes;Breakfast Cereals & Bars;500g;35.99;45;1619.55;2020/08/04;12;57
+A032;Kellogg's Rice Krispies;Breakfast Cereals & Bars;400g;39.99;48;1919.52;2020/11/22;14;51
+A033;Kellogg's Corn Flakes;Breakfast Cereals & Bars;1Kg;62.99;51;3212.49;2021/01/01;14;70
+A034;Sunlight Original Dishwashing Liquid ;Household & Cleaning;750ml;29.99;41;1229.59;2021/06/12;10;49
+A035;Domestos Lavender Blast Thick Bleach;Household & Cleaning;750ml;29.99;19;569.81;2020/07/07;28;28
+A036;Handy Andy Lemon Fresh Cream Detergent;Household & Cleaning;750ml;25.99;17;441.83;2021/02/19;35;16
+A037;Omo Auto Washing Powder;Household & Cleaning;2Kg;61.99;33;2045.67;2021/03/27;37;12
+A038;Mr Min Lavender Multi Surface Cleaner;Household & Cleaning;400ml;49.99;41;2049.59;2020/10/09;43;7
+A039;Mr Muscle Mountain Fresh Tile Cleaner;Household & Cleaning;750ml;37.99;6;227.94;2020/08/11;21;22
+A040;Glade Secrets Clean Linen Air Freshener;Household & Cleaning;180ml;16.99;26;441.74;2020/04/21;26;35
